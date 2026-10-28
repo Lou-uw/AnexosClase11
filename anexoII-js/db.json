@@ -1,0 +1,15 @@
+{
+  "tareas": [
+    {
+      "texto": "Dormir",
+      "hecha": true,
+      "id": "RMqRXPDpvAk"
+    },
+    {
+      "texto": "Despertar",
+      "hecha": false,
+      "id": "OUlnSb-DOJo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
